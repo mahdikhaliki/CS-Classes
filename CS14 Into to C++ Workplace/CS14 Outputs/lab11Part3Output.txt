@@ -1,0 +1,84 @@
+Mahdi Khaliki and Farris Tang
+
+1. Burger  $5.00
+2. Pizza  $2.25
+3. Fries  $1.50
+4. Pasta  $11.10
+5. PB&J  $2.25
+6. Sandwich  $6.50
+7. Apples  $1.00
+8. Water  $2.30
+9. Soda  $1.15
+10. Gatorade  $1.50
+
+Enter menu item number: 
+1
+2
+3
+4
+8
+-1
+
+Customer receipt:
+Burger  $5.00
+Pizza  $2.25
+Fries  $1.50
+Pasta  $11.10
+Water  $2.30
+Number of items: 5
+total:  $22.15
+Program ended with exit code: 0
+
+1. Burger  $5.00
+2. Pizza  $2.25
+3. Fries  $1.50
+4. Pasta  $11.10
+5. PB&J  $2.25
+6. Sandwich  $6.50
+7. Apples  $1.00
+8. Water  $2.30
+9. Soda  $1.15
+10. Gatorade  $1.50
+
+Enter menu item number: 
+-2
+Enter an item 1-10: 10
+11
+Enter an item 1-10: -1
+
+Customer receipt:
+Gatorade  $1.50
+Number of items: 1
+total:  $1.50
+Program ended with exit code: 0
+
+1. Burger  $5.00
+2. Pizza  $2.25
+3. Fries  $1.50
+4. Pasta  $11.10
+5. PB&J  $2.25
+6. Sandwich  $6.50
+7. Apples  $1.00
+8. Water  $2.30
+9. Soda  $1.15
+10. Gatorade  $1.50
+
+Enter menu item number: 
+4
+5
+7
+4
+You can only enter 1 of each item, please re-enter: 6
+5
+You can only enter 1 of each item, please re-enter: 9
+-1
+
+Customer receipt:
+Pasta  $11.10
+PB&J  $2.25
+Apples  $1.00
+Sandwich  $6.50
+Soda  $1.15
+Number of items: 5
+total:  $22.00
+Program ended with exit code: 0

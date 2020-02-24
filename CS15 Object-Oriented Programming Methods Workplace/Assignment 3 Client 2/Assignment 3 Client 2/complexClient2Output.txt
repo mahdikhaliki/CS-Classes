@@ -1,0 +1,14 @@
+Normal constructor:
+( 3.5 + 1i )
+
+Setter for real value:
+( 5.5 + 1i )
+
+Setter for imaginary value:
+( 5.5 + 9.45i )
+
+Getter:
+Real = 5.5	Imaginary = 9.45
+
+Setter for both real and imaginary values:
+( 26.457 + 99.99i )

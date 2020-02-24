@@ -1,0 +1,25 @@
+Mahdi Khaliki and Farris Tang
+
+Enter menu item: pizza
+Enter price: 5
+Name of menu item is: pizza
+Price of item is: $5
+Program ended with exit code: 0
+
+Enter menu item: Burger
+Enter price: 4.03
+Name of menu item is: Burger
+Price of item is: $4.03
+Program ended with exit code: 0
+
+Enter menu item: Apples
+Enter price: 1.25
+Name of menu item is: Apples
+Price of item is: $1.25
+Program ended with exit code: 0
+
+Enter menu item: sandwich
+Enter price: 7.89
+Name of menu item is: sandwich
+Price of item is: $7.89
+Program ended with exit code: 0

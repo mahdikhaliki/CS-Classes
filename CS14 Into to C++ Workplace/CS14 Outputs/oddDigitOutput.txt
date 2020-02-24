@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Mahdi Khaliki\
+\
+\pard\tx543\pardeftab543\pardirnatural\partightenfactor0
+
+\f1\b\fs22 \cf2 \CocoaLigature0 The character 0 is not an odd digit.\
+The character 1 is an odd digit.\
+The character 2 is not an odd digit.\
+The character 3 is an odd digit.\
+The character 4 is not an odd digit.\
+The character 5 is an odd digit.\
+The character 6 is not an odd digit.\
+The character 7 is an odd digit.\
+The character 8 is not an odd digit.\
+The character 9 is an odd digit.\
+The character ] is not an odd digit.\
+The character ^ is not an odd digit.\
+The character _ is not an odd digit.\
+The character ` is not an odd digit.\
+The character a is not an odd digit.\
+The character b is not an odd digit.\
+The character c is not an odd digit.\
+The character > is not an odd digit.\
+The character ? is not an odd digit.\
+The character @ is not an odd digit.\
+The character A is not an odd digit.\
+The character B is not an odd digit.\
+The character C is not an odd digit.\
+Program ended with exit code: 0}

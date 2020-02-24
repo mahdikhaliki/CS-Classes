@@ -1,0 +1,113 @@
+Mahdi Khaliki
+
+Directly accessing the shapes:
+This is a quadrilateral
+Points: (4,0)(0,1)(1,5)(3,5)
+Area = 17
+Perimeter = 15.3452
+---------------------------------
+This is a trapezoid.
+This is a quadrilateral
+Points: (4,0)(0,0)(1,5)(3,5)
+Area = 15
+Perimeter = 16.198
+---------------------------------
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (5,0)(0,0)(1,6)(6,6)
+Area = 30
+Perimeter = 22.1655
+---------------------------------
+This is a rectangle.
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (3,0)(0,0)(0,4)(3,4)
+Area = 12
+Perimeter = 14
+---------------------------------
+This is a square.
+This is a rectangle.
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (4,0)(0,0)(0,4)(4,4)
+Area = 16
+Perimeter = 16
+---------------------------------
+
+Using a reference to access the shapes:
+This is a quadrilateral
+Points: (4,0)(0,1)(1,5)(3,5)
+Area = 17
+Perimeter = 15.3452
+---------------------------------
+This is a trapezoid.
+This is a quadrilateral
+Points: (4,0)(0,0)(1,5)(3,5)
+Area = 15
+Perimeter = 16.198
+---------------------------------
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (5,0)(0,0)(1,6)(6,6)
+Area = 30
+Perimeter = 22.1655
+---------------------------------
+This is a rectangle.
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (3,0)(0,0)(0,4)(3,4)
+Area = 12
+Perimeter = 14
+---------------------------------
+This is a square.
+This is a rectangle.
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (4,0)(0,0)(0,4)(4,4)
+Area = 16
+Perimeter = 16
+---------------------------------
+
+Using a pointer to access the shapes:
+This is a quadrilateral
+Points: (4,0)(0,1)(1,5)(3,5)
+Area = 17
+Perimeter = 15.3452
+---------------------------------
+This is a trapezoid.
+This is a quadrilateral
+Points: (4,0)(0,0)(1,5)(3,5)
+Area = 15
+Perimeter = 16.198
+---------------------------------
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (5,0)(0,0)(1,6)(6,6)
+Area = 30
+Perimeter = 22.1655
+---------------------------------
+This is a rectangle.
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (3,0)(0,0)(0,4)(3,4)
+Area = 12
+Perimeter = 14
+---------------------------------
+This is a square.
+This is a rectangle.
+This is a parallelogram.
+This is a trapezoid.
+This is a quadrilateral
+Points: (4,0)(0,0)(0,4)(4,4)
+Area = 16
+Perimeter = 16
+---------------------------------
+Program ended with exit code: 0

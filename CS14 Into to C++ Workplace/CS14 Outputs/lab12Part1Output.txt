@@ -1,0 +1,155 @@
+Mahdi Khaliki an Farris Tang
+
+Enter an integer: 3
+Enter an integer: 4
+Enter an integer: 5
+Enter an integer: 6
+Enter an integer: 7
+Enter an integer: 777
+Enter an integer: 8
+Enter an integer: 8
+Enter an integer: 9
+Enter an integer: 9
+Enter an integer: 0
+Enter an integer: 3
+Enter an integer: 4
+Enter an integer: 7
+Enter an integer: 8
+Enter an integer: 5
+Enter an integer: 6
+Enter an integer: 7
+Enter an integer: 8
+Enter an integer: 3
+Enter an integer: 4
+Enter an integer: 5
+Enter an integer: 55
+Enter an integer: 2
+Enter an integer: 3
+Enter an integer: 43
+Enter an integer: 2
+Enter an integer: 3
+Enter an integer: 4
+Enter an integer: 5
+Enter an integer: 6
+Enter an integer: 7
+Enter an integer: 8
+Enter an integer: 5
+Enter an integer: 1
+Enter an integer: 1
+Enter an integer: 0
+Enter an integer: 4
+Enter an integer: 5
+Enter an integer: 6
+Enter an integer: 5
+Enter an integer: 3
+Enter an integer: 4
+Enter an integer: 5
+Enter an integer: 6
+Enter an integer: 6
+Enter an integer: 7
+Enter an integer: 8
+Enter an integer: 9
+Enter an integer: 3
+Smallest = 0
+Largest = 777
+Sum = 1112
+Average = 22.24
+
+Printing user entries in order:
+3   4   5   6   7 777   8   8   9   9
+0   3   4   7   8   5   6   7   8   3
+4   5  55   2   3  43   2   3   4   5
+6   7   8   5   1   1   0   4   5   6
+5   3   4   5   6   6   7   8   9   3
+
+Printing user entries in reverse order:
+3   9   8   7   6   6   5   4   3   5
+6   5   4   0   1   1   5   8   7   6
+5   4   3   2  43   3   2  55   5   4
+3   8   7   6   5   8   7   4   3   0
+9   9   8   8 777   7   6   5   4   3
+
+Printing user entries in ascending order:
+0   0   1   1   2   2   3   3   3   3
+3   3   3   4   4   4   4   4   4   5
+5   5   5   5   5   5   5   6   6   6
+6   6   6   7   7   7   7   7   8   8
+8   8   8   8   9   9   9  43  55 777
+Program ended with exit code: 0
+
+Enter and integer: 4
+Enter and integer: 5
+Enter and integer: 6
+Enter and integer: 5
+Enter and integer: 4
+Enter and integer: 3
+Enter and integer: 4
+Enter and integer: 4
+Enter and integer: 5
+Enter and integer: 5
+Enter and integer: 5
+Enter and integer: 5
+Enter and integer: 5
+Enter and integer: 78
+Enter and integer: 9
+Enter and integer: 8
+Enter and integer: 6
+Enter and integer: 4
+Enter and integer: 5
+Enter and integer: 2
+Enter and integer: 3
+Enter and integer: 4
+Enter and integer: 5
+Enter and integer: 6
+Enter and integer: 4
+Enter and integer: 5
+Enter and integer: 6
+Enter and integer: 7
+Enter and integer: 8
+Enter and integer: 3
+Enter and integer: 2
+Enter and integer: 1
+Enter and integer: 2
+Enter and integer: 3
+Enter and integer: 7
+Enter and integer: 8
+Enter and integer: 9
+Enter and integer: 0
+Enter and integer: 56
+Enter and integer: 55
+Enter and integer: 555
+Enter and integer: 43
+Enter and integer: 2
+Enter and integer: 12
+Enter and integer: 3
+Enter and integer: 4
+Enter and integer: 5
+Enter and integer: 6
+Enter and integer: 7
+Enter and integer: 8
+Smallest = 0
+Largest = 555
+Sum = 1011
+Average = 20.22
+
+Printing user entries in order:
+4   5   6   5   4   3   4   4   5   5
+5   5   5  78   9   8   6   4   5   2
+3   4   5   6   4   5   6   7   8   3
+2   1   2   3   7   8   9   0  56  55
+555  43   2  12   3   4   5   6   7   8
+
+Printing user entries in reverse order:
+8   7   6   5   4   3  12   2  43 555
+55  56   0   9   8   7   3   2   1   2
+3   8   7   6   5   4   6   5   4   3
+2   5   4   6   8   9  78   5   5   5
+5   5   4   4   3   4   5   6   5   4
+Printing user entries in ascending order:
+
+0   1   2   2   2   2   3   3   3   3
+3   4   4   4   4   4   4   4   4   5
+5   5   5   5   5   5   5   5   5   5
+6   6   6   6   6   7   7   7   8   8
+8   8   9   9  12  43  55  56  78 555
+Program ended with exit code: 0

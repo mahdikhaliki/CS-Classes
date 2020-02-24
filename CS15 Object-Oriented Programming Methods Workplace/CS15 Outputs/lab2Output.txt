@@ -1,0 +1,38 @@
+Mahdi Khaliki and Brian Deitchman
+
+The address of str in RAM is: 0x7fff5fbff730
+The address of pstr in RAM is: 0x100001dd4
+The address of qstr in RAM is: 0x100001dd4
+The address of rstr in RAM is: 0x7fff5fbff730
+
+str points to: This is a simple C-string
+pstr points to: This is a declaration of a pointer to a C-string
+qstr points to: This is a declaration of a pointer to a C-string
+rstr points to: This is a simple C-string
+
+#1:
+This is a simple C-string
+This is a dimple C-string
+
+#3:
+This is a declaration of a pointer to a C-string
+This is the new string
+
+#5:
+pstr: This is the new string
+qstr: This is a declaration of a pointer to a C-string
+
+pstr: Hello
+qstr: This is a declaration of a pointer to a C-string
+
+#7:
+This is a dimple C-string
+This As a dimple C-string
+
+#8:
+This As a dimple C-string
+This As a Aimple C-string
+
+#9:
+Hello	H	0x100001efd
+Program ended with exit code: 0

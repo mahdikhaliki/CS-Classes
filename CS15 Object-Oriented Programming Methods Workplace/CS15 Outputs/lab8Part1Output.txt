@@ -1,0 +1,86 @@
+Mahdi Khaliki and Saoi Chan
+
+Absolute values of double datatype:
+Original value: -1.34
+absolute() returned: 1.34
+Original value: 0
+absolute() returned: 0
+Original value: 8.999
+absolute() returned: 8.999
+
+Absolute values of int datatype:
+Original value: -10
+absolute() returned: 10
+Original value: 0
+absolute() returned: 0
+Original value: 3
+absolute() returned: 3
+
+Absolute values of float datatype:
+Original value: -4.53213
+absolute() returned: 4.53213
+Original value: 0
+absolute() returned: 0
+Original value: 15.654
+absolute() returned: 15.654
+
+Values(double) passed into minNum(): -1.34, 8.999
+Value returned by minNum(): -1.34
+
+Values(int) passed into minNum(): -10, 0
+Value returned by minNum(): -10
+
+Values(float) passed into minNum(): 0, 15.654
+Value returned by minNum(): 0
+
+Values(c++ string) passed into minNum(): Tom, Jenkins
+Value returned by minNum(): Jenkins
+
+Values(objects) passed into minNum(): Object value: 5, Object value: 123
+Value returned by minimum(): Object value: 5
+
+Values(double) passed into maxNum(): -1.34, 8.999
+Value returned by maxNum(): 8.999
+
+Values(int) passed into maxNum(): -10, 0
+Value returned by maxNum(): 0
+
+Values(float) passed into maxNum(): 0, 15.654
+Value returned by maxNum(): 15.654
+
+Values(c++ string) passed into maxNum(): Tom, Jenkins
+Value returned by maxNum(): Tom
+
+Values(objects) passed into maxNum(): Object value: 5, Object value: 123
+Value returned by maxNum(): Object value: 123
+
+Values(double) passed into minimum(): -1.34, 8.999, 0
+Value returned by minimum(): -1.34
+
+Values(int) passed into minimum(): -10, 0, 3
+Value returned by minimum(): -10
+
+Values(float) passed into minimum(): 0, 15.654, -4.53213
+Value returned by minimum(): -4.53213
+
+Values(c++ string) passed into minimum(): Tom, Abram, Jenkins
+Value returned by minimum(): Abram
+
+Values(objects) passed into minimum(): Object value: 5, Object value: 123, Object value: 65
+Value returned by minimum(): Object value: 5
+
+Values(double) passed into maximum(): -1.34, 8.999, 0
+Value returned by maximum(): 8.999
+
+Values(int) passed into maximum(): -10, 0, 3
+Value returned by maximum(): 3
+
+Values(float) passed into maximum(): 0, 15.654, -4.53213
+Value returned by maximum(): 15.654
+
+Values(c++ string) passed into maximum(): Tom, Abram, Jenkins
+Value returned by maximum(): Tom
+
+Values(objects) passed into maximum(): Object value: 5, Object value: 123, Object value: 65
+Value returned by maximum(): Object value: 123
+Program ended with exit code: 0

@@ -1,0 +1,167 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Bold;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Mahdi Khaliki
+\f1\b\fs22 \cf2 \CocoaLigature0 \
+\pard\tx543\pardeftab543\pardirnatural\partightenfactor0
+\cf2 \
+How many days? 
+\f2\b0 -4\
+
+\f1\b Total pay: $0.00\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 0\
+
+\f1\b Total pay: $0.00\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 1\
+
+\f1\b Pay for day 1 = 1\
+Total pay: $0.01\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 5\
+
+\f1\b Pay for day 1 = 1\
+Pay for day 2 = 2\
+Pay for day 3 = 4\
+Pay for day 4 = 8\
+Pay for day 5 = 16\
+Total pay: $0.31\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 8\
+
+\f1\b Pay for day 1 = 1\
+Pay for day 2 = 2\
+Pay for day 3 = 4\
+Pay for day 4 = 8\
+Pay for day 5 = 16\
+Pay for day 6 = 32\
+Pay for day 7 = 64\
+Pay for day 8 = 128\
+Total pay: $2.55\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 10\
+
+\f1\b Pay for day 1 = 1\
+Pay for day 2 = 2\
+Pay for day 3 = 4\
+Pay for day 4 = 8\
+Pay for day 5 = 16\
+Pay for day 6 = 32\
+Pay for day 7 = 64\
+Pay for day 8 = 128\
+Pay for day 9 = 256\
+Pay for day 10 = 512\
+Total pay: $10.23\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 15\
+
+\f1\b Pay for day 1 = 1\
+Pay for day 2 = 2\
+Pay for day 3 = 4\
+Pay for day 4 = 8\
+Pay for day 5 = 16\
+Pay for day 6 = 32\
+Pay for day 7 = 64\
+Pay for day 8 = 128\
+Pay for day 9 = 256\
+Pay for day 10 = 512\
+Pay for day 11 = 1024\
+Pay for day 12 = 2048\
+Pay for day 13 = 4096\
+Pay for day 14 = 8192\
+Pay for day 15 = 16384\
+Total pay: $327.67\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 31\
+
+\f1\b Pay for day 1 = 1\
+Pay for day 2 = 2\
+Pay for day 3 = 4\
+Pay for day 4 = 8\
+Pay for day 5 = 16\
+Pay for day 6 = 32\
+Pay for day 7 = 64\
+Pay for day 8 = 128\
+Pay for day 9 = 256\
+Pay for day 10 = 512\
+Pay for day 11 = 1024\
+Pay for day 12 = 2048\
+Pay for day 13 = 4096\
+Pay for day 14 = 8192\
+Pay for day 15 = 16384\
+Pay for day 16 = 32768\
+Pay for day 17 = 65536\
+Pay for day 18 = 131072\
+Pay for day 19 = 262144\
+Pay for day 20 = 524288\
+Pay for day 21 = 1048576\
+Pay for day 22 = 2097152\
+Pay for day 23 = 4194304\
+Pay for day 24 = 8388608\
+Pay for day 25 = 16777216\
+Pay for day 26 = 33554432\
+Pay for day 27 = 67108864\
+Pay for day 28 = 134217728\
+Pay for day 29 = 268435456\
+Pay for day 30 = 536870912\
+Pay for day 31 = 1073741824\
+Total pay: $21474836.00\
+Program ended with exit code: 0\
+\
+How many days? 
+\f2\b0 32\
+
+\f1\b Pay for day 1 = 1\
+Pay for day 2 = 2\
+Pay for day 3 = 4\
+Pay for day 4 = 8\
+Pay for day 5 = 16\
+Pay for day 6 = 32\
+Pay for day 7 = 64\
+Pay for day 8 = 128\
+Pay for day 9 = 256\
+Pay for day 10 = 512\
+Pay for day 11 = 1024\
+Pay for day 12 = 2048\
+Pay for day 13 = 4096\
+Pay for day 14 = 8192\
+Pay for day 15 = 16384\
+Pay for day 16 = 32768\
+Pay for day 17 = 65536\
+Pay for day 18 = 131072\
+Pay for day 19 = 262144\
+Pay for day 20 = 524288\
+Pay for day 21 = 1048576\
+Pay for day 22 = 2097152\
+Pay for day 23 = 4194304\
+Pay for day 24 = 8388608\
+Pay for day 25 = 16777216\
+Pay for day 26 = 33554432\
+Pay for day 27 = 67108864\
+Pay for day 28 = 134217728\
+Pay for day 29 = 268435456\
+Pay for day 30 = 536870912\
+Pay for day 31 = 1073741824\
+Pay for day 32 = -2147483648\
+Total pay: $-0.01\
+Program ended with exit code: 0}

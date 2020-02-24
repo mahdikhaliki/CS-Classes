@@ -1,0 +1,52 @@
+Mahdi Khaliki and Saoi Chan
+
+Enter strings, "quit" to quit : 
+|| is a palindrome.
+
+Enter strings, "quit" to quit : T
+|T| is a palindrome.
+
+Enter strings, "quit" to quit : TT
+|TT| is a palindrome.
+
+Enter strings, "quit" to quit : This is not a palindrome
+|This is not a palindrome| is not a palindrome.
+
+Enter strings, "quit" to quit : adam
+|adam| is not a palindrome.
+
+Enter strings, "quit" to quit : Madam, I'm Adam.
+|Madam, I'm Adam.| is a palindrome.
+
+Enter strings, "quit" to quit : A man, a plan, a canal, Panama!
+|A man, a plan, a canal, Panama!| is a palindrome.
+
+Enter strings, "quit" to quit : not a palindrome
+|not a palindrome| is not a palindrome.
+
+Enter strings, "quit" to quit : A Toyota! Race fast, safe car! A Toyota!
+|A Toyota! Race fast, safe car! A Toyota!| is a palindrome.
+
+Enter strings, "quit" to quit : Racecar
+|Racecar| is a palindrome.
+
+Enter strings, "quit" to quit : Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era.
+|Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era.| is a palindrome.
+
+Enter strings, "quit" to quit : Al lets Della call Ed Stella.
+|Al lets Della call Ed Stella.| is a palindrome.
+
+Enter strings, "quit" to quit : Zeus was deified, saw Suez.
+|Zeus was deified, saw Suez.| is a palindrome.
+
+Enter strings, "quit" to quit : this
+|this| is not a palindrome.
+
+Enter strings, "quit" to quit : "High up in the sky".
+|"High up in the sky".| is not a palindrome.
+
+Enter strings, "quit" to quit : Nella risks all: “I will ask Sir Allen!”
+|Nella risks all: “I will ask Sir Allen!”| is a palindrome.
+
+Enter strings, "quit" to quit : quit
+Program ended with exit code: 0

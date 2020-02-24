@@ -1,0 +1,11 @@
+Mahdi Khaliki and Brian Deitchman
+
+1. Yes you can write str[10] to a new value.
+2. No because pstr is a constant string literal.
+3. Yes you can change pstr to a different string.
+4. Yes but only element by element.
+5. qstr will point to the old string.
+6. No because str is a constant pointer to the base of the array.
+7. The 6th element of str will be changed.
+8. rstr will reflect the changes to str.
+9. pstr will print the whole string, *pstr will point to the base of the array, and (void *)pstr will give you the address to the base of the array.

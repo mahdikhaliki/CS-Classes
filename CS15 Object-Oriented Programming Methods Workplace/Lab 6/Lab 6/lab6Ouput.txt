@@ -1,0 +1,23 @@
+First     Last           Employee#   Date (mm/dd/yyyy)   Shift     Hourly Pay
+Brian     Deitchman      1           04/10/2017
+John      Apple          3           04/11/1700
+Recycle   Bin            1000        04/12/2017
+Glooko    Blood          1005        02/16/2027
+Keith     Mehl           4           12/30/2011          Evening   $100.50
+Mahdi     Khaliki        2           04/10/2017          Day       $19.50
+Trash     Can            1234        04/01/2017          Night     $7.75
+Camel     Bak            78          11/04/2011          Day       $10.52
+Poster    Bat            7           10/19/1899          Night     $98.50
+Ragged    Array          1030        01/01/1999          Evening   $17.75
+
+Changing fields
+Change    Change         1234        06/01/1777
+John      Change         3           04/11/1700
+Change    Change         4321        08/30/1897
+Glooko    Blood          1005        05/06/2007
+Change    Change         987         12/25/1997          Day       $120.54
+Mahdi     Change         2           04/10/2017          Day       $19.50
+Trash     Can            9999        04/01/2017          Night     $7.75
+Change    Change         999999      01/01/1970          Evening   $15.67
+Poster    Bat            7           10/19/1899          Day       $98.50
+Change    Change         666         06/06/1666          Night     $19.70

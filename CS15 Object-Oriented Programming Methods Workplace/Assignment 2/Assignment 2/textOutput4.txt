@@ -1,0 +1,10 @@
+what does the fox say.
+what           1
+does           1
+the            1
+fox            1
+say            1
+Number of words = 5
+Number of rows = 1
+Shortest word = the
+Longest word = what

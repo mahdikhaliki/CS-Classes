@@ -1,0 +1,14 @@
+Primitive data type int is faster to work with and takes up less memory but does
+not offer any functionalities other than arithmetic operations such as:
+addition, subtraction, multiplication, division, and modulo.
+
+Class Integer is not as fast to work with as int and takes up more space but it
+offers more functionalities than primitive int. Since Java collections frameworks
+saves objects we wouldn't be able to store primitive int so Integer would have
+to be used instead. Class Integer offer many functionalities such as:
+• hashCode() - returns a hash code for an integer
+• Methods to cast an integer value to double, float, short, and long.
+• Methods that manipulate the binary representation of an integer such as rotateRight(),
+rotateLeft(), etc.
+• parseInt(String s) - Parsing a string to obtain an integer value.
+etc.
