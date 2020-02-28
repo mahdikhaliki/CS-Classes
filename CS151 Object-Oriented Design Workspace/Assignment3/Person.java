@@ -1,7 +1,7 @@
 public abstract class Person {
-    protected String firstName, lastName, accommodations, social;
-    protected int age, id;
-    protected Address address;
+    private String firstName, lastName, accommodations, social;
+    private int age, id;
+    private Address address;
 
     public Person() {
         firstName = lastName = accommodations = social = "";
