@@ -10,6 +10,14 @@ public class Course {
           this.weekday = weekday;
     }
 
+    public void printInfo() {
+        System.out.println("\nCourse name: "+name+
+                           "\nDescription: "+description+
+                           "\nDepartment: "+department+
+                           "\nStart time: "+startTime+
+                           "\nWeekday: "+weekday+'\n');
+    }
+
     public void setName(String name) { this.name = name; }
     public void setDescription(String description) { this.description = description; }
     public void setDepartment(String department) { this.department = department; }

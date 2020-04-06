@@ -18,35 +18,30 @@ public class ListManipulator {
             if(myLst.get(i) > myLst.get(maxIndex)) maxIndex = i;
         }
 
-        int temp = myLst.get(minIndex);
-        myLst.set(minIndex, myLst.get(maxIndex));
-        myLst.set(maxIndex, temp);
-
+        Collections.swap(myLst, minIndex, maxIndex);
         return myLst;
     }
 
     public static void table(ArrayList<Integer> myLst) {
-        
-    }
+        Hashtable<Integer, Integer> ht = new Hashtable<>();
+        PriorityQueue<Integer> sortedKeys = new PriorityQueue<>();
 
+        for(Integer integer : myLst) {
+            if(ht.containsKey(integer)) {
+                int frequency = ht.get(integer) + 1;
+                ht.put(integer, frequency);
+            }
+            else{
+                ht.put(integer, 1);
+                sortedKeys.add(integer);
+            }
+        }
 
-    Accepts an array list of integers, creates a table of unique values and the number of times each value occurs, sorts this table, and outputs it to command line.
-
-
-    public static void main(String[] args) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        Random rand = new Random();
-
-        for(int i = 0; i < 15; i++)
-            arr.add(rand.nextInt(100));
-
-        // sort(arr, true);
-        // System.out.println(arr);
-        // sort(arr, false);
-        // System.out.println(arr);
-
-        System.out.println(arr);
-        swapLargestSmallest(arr);
-        System.out.println(arr);
+        System.out.println("\n[Integer, Frequency]");
+        while(sortedKeys.size() > 0) {
+            int key = sortedKeys.poll();
+            System.out.print("["+key+", "+ht.get(key)+"] ");
+        }
+        System.out.println();
     }
 }
