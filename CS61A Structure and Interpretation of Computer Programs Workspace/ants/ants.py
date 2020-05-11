@@ -149,7 +149,7 @@ class Bee(Insect):
     damage = 1
     # OVERRIDE CLASS ATTRIBUTES HERE
     is_watersafe = True
-    
+
     def __init__(self, armor=1, place=None):
         self.armor = armor
         self.place = place
@@ -204,7 +204,7 @@ class Ant(Insect):
     # ADD CLASS ATTRIBUTES HERE
     blocks_path = True
     is_container = False
-    
+
     def __init__(self, armor=1):
         """Create an Ant with an ARMOR quantity."""
         Insect.__init__(self, armor)
@@ -223,7 +223,7 @@ class HarvesterAnt(Ant):
     implemented = True
     # OVERRIDE CLASS ATTRIBUTES HERE
     food_cost = 2
-    
+
     def action(self, colony):
         """Produce 1 additional food for the COLONY.
 
@@ -245,7 +245,7 @@ class ThrowerAnt(Ant):
     food_cost = 3
     min_range = 0
     max_range = float('inf')
-    
+
     def nearest_bee(self, hive):
         """Return the nearest Bee in a Place that is not the HIVE, connected to
         the ThrowerAnt's Place by following entrances.
@@ -257,7 +257,7 @@ class ThrowerAnt(Ant):
         current_place = self.place
         for i in range(self.min_range):
             current_place = current_place.entrance
-        
+
         while (current_place is not None) and (not current_place is hive) and (i <= self.max_range):
             bee = random_or_none(current_place.bees)
             if bee is not None:
@@ -395,7 +395,7 @@ class WallAnt(Ant):
     name = 'Wall'
     implemented = True
     food_cost = 4
-    
+
     def __init__(self, armor=4):
         self.armor = armor
 # END Problem 8
@@ -605,7 +605,7 @@ class SlowThrower(ThrowerAnt):
     # BEGIN Problem EC
     implemented = True   # Change to True to view in the GUI
     food_cost = 4
-    
+
     def action(self, colony):
         bee = self.nearest_bee(colony.hive)
         self.throw_at(bee)
@@ -623,13 +623,13 @@ class ScaryThrower(ThrowerAnt):
     # BEGIN Problem EC
     implemented = True   # Change to True to view in the GUI
     food_cost = 6
-    
+
     def action(self, colony):
         bee = self.nearest_bee(colony.hive)
         if not bee.scared:
             self.throw_at(bee)
     # END Problem EC
-    
+
     def throw_at(self, target):
         # BEGIN Problem EC
         "*** YOUR CODE HERE ***"
