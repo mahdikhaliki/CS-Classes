@@ -10,6 +10,7 @@ public class Student implements Comparable<Student> {
 
     public String getFirst() { return first_name; }
     public String getLast() { return last_name; }
+    public int getID() { return id; }
 
     @Override
     public int compareTo(Student o) {

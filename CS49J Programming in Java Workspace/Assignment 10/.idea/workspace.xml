@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e424f66b-8902-412b-810d-63c032ecf1fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e424f66b-8902-412b-810d-63c032ecf1fd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,24 +15,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1TBJ7abVklRVi4sXaO6J8b2GqtL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="restartRequiresConfirmation" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.P15_2">
     <configuration name="E15_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -59,6 +54,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,12 +73,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="-1270" key="#Project_Structure" timestamp="1604615683168">
+      <screen x="-925" y="-1417" width="3440" height="1417" />
+    </state>
+    <state x="334" y="-1270" key="#Project_Structure/0.23.1440.810/-925.-1417.3440.1417@-925.-1417.3440.1417" timestamp="1604615683168" />
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom" timestamp="1604619591469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom/0.0.1440.900/-925.-1440.3440.1440@0.0.1440.900" timestamp="1604619591469" />
+    <state width="1398" height="314" key="GridCell.Tab.0.center" timestamp="1604619591467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.center/0.0.1440.900/-925.-1440.3440.1440@0.0.1440.900" timestamp="1604619591467" />
+    <state width="1398" height="314" key="GridCell.Tab.0.left" timestamp="1604619591466">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.left/0.0.1440.900/-925.-1440.3440.1440@0.0.1440.900" timestamp="1604619591466" />
+    <state width="1398" height="314" key="GridCell.Tab.0.right" timestamp="1604619591468">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.right/0.0.1440.900/-925.-1440.3440.1440@0.0.1440.900" timestamp="1604619591468" />
+    <state x="355" y="-1213" key="SettingsEditor" timestamp="1604615635192">
+      <screen x="-925" y="-1417" width="3440" height="1417" />
+    </state>
+    <state x="355" y="-1213" key="SettingsEditor/0.23.1440.810/-925.-1417.3440.1417@-925.-1417.3440.1417" timestamp="1604615635192" />
   </component>
 </project>

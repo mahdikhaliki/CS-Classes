@@ -86,7 +86,7 @@ public class P15_2 {
     public static void printAllGrades(Map<Student, String> grades) {
         System.out.println("\n");
         for (Student key : grades.keySet())
-            System.out.println(key.getFirst()+" "+key.getLast()+": "
+            System.out.println(key.getFirst()+" "+key.getLast() + " id: " + key.getID() + ": "
                     +grades.get(key));
     }
 }
