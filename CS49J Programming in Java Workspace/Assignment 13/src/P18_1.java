@@ -42,4 +42,3 @@ public class P18_1 {
         System.out.println("Min = "+p.getKey().getMeasure()+"\nMax = "+p.getValue().getMeasure());
     }
 }
-
